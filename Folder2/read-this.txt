@@ -1,2 +1,6 @@
 Here I added a new folder called Folder 2 and inside it i put this text .
 the main idea is for yaya to try and fetch this folder then add a few lines of text .
+
+Hello , here is Jamal again . 
+it's worth to mention that this time i am adding this text in vs code after successfully pulling it using powershell.
+now i am looking forward for yaya's attempt to do the same .
